@@ -1,12 +1,12 @@
 # multi-lable-classification
 This repo holds code for A multi-label dataset for China’s agricultural and rural scenes classification from VHR satellite imagery
-
+Includes multi-label classification code for ResNet, DenseNet, VGGNet, and others.
 ## Usage
 
-### 1.train/test--for deep learning model
+### 1.train --for deep learning model
 `python RSMLR-main1/main.py ` 
 
-### 2.train/test--for Machine Learning model
+### 2.train --for Machine Learning model
 `python RSMLR-main1/train.py ` 
 
 ### 3.download images from google earth 
